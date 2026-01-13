@@ -1,1 +1,14 @@
-
+{
+  "photos": [
+    {
+      "id": 1,
+      "title": "First Photo",
+      "url": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Second Photo",
+      "url": "https://via.placeholder.com/150"
+    }
+  ]
+}
