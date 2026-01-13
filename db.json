@@ -1,14 +1,38 @@
-{
-  "photos": [
-    {
-      "id": 1,
-      "title": "First Photo",
-      "url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 2,
-      "title": "Second Photo",
-      "url": "https://via.placeholder.com/150"
-    }
-  ]
-}
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "old camera",
+    "url": "https://cdn.pixabay.com/photo/2014/12/27/15/31/camera-581126_1280.jpg",
+    "thumbnailUrl": "https://cdn.pixabay.com/photo/2014/12/27/15/31/camera-581126_1280.jpg"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "nikon",
+    "url": "https://cdn.pixabay.com/photo/2014/08/29/14/53/camera-431119_1280.jpg",
+    "thumbnailUrl": "https://cdn.pixabay.com/photo/2014/08/29/14/53/camera-431119_1280.jpg"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "olympus",
+    "url": "https://cdn.pixabay.com/photo/2014/11/22/00/51/camera-541213_1280.jpg",
+    "thumbnailUrl": "https://cdn.pixabay.com/photo/2014/11/22/00/51/camera-541213_1280.jpg"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "sony",
+    "url": "https://cdn.pixabay.com/photo/2019/04/12/21/32/camera-4123304_1280.jpg",
+    "thumbnailUrl": "https://cdn.pixabay.com/photo/2019/04/12/21/32/camera-4123304_1280.jpg"
+  }
+
+]
+
+
+
+
+
+
+  
